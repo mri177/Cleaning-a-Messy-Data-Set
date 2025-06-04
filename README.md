@@ -71,6 +71,6 @@ This project focuses on analyzing and cleaning a dataset containing information 
 
 **Mridul Sankarakumar**  
 ✉️ msankara@mail.yu.edu  
-🔗 [LinkedIn](www.linkedin.com/in/mridul-sankarakumar) 
+🔗 [LinkedIn]([www.linkedin.com/in/mridul-sankarakumar](https://www.linkedin.com/in/mridul-sankarakumar/)) 
 
 ---
